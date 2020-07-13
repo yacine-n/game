@@ -1,0 +1,25 @@
+
+body div#un{
+  background: -moz-linear-gradient(right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+body div#deux{
+  width: 200px;
+  height: 200px;
+  background: -moz-linear-gradient(135deg, #673ab7, red 60%, #00bcd4);
+  margin: 50px;
+}
+
+body div#trois{
+  width: 200px;
+  height: 200px;
+  background: -moz-linear-gradient(135deg, #e91e63,#ffeb3b);
+  margin: 50px;
+}
+
+body div#quatre{
+  background: -moz-linear-gradient(.25turn, #39c13e, 10%, #9c593d);
+  height: 400px;
+  width: 900px;
+  margin: 50px;
+}
